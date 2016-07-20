@@ -1,0 +1,61 @@
+#v{
+	background-color: green;
+	width: 600px;
+	height: 300px;
+}
+.banda{
+	border-style: solid;
+	border-color: white;
+	width: 550px;
+	height: 250px;
+	position: relative;
+	left: 20px;
+	top: 20px;
+}
+.porteria{
+	border: 2px solid white;
+	width: 50px;
+	height: 100px;
+	
+
+}
+
+.left{
+	position: relative;
+	left: -2px;
+	top: 30%;
+}
+.right{
+	position: absolute;
+	right: -2px;
+	bottom: 30%;
+}
+
+.circulo{
+	border: 2px solid white;
+	border-radius: 100%;
+	width: 100px;
+	height:	100px;
+	position: absolute;
+		left: 40%;
+		top: 80px;
+}
+
+.bola1{
+	position: absolute;
+	top: 30px;
+	left: 265px;
+
+}
+
+.bola2{
+	position: absolute;
+	top: 90px;
+	left: 40px;
+}
+
+.bola3{
+	position: absolute;
+	top: 150px;
+	left: 470px;
+}
